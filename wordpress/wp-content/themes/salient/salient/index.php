@@ -2,6 +2,8 @@
 
 <?php nectar_page_header(get_option('page_for_posts')); ?>
 
+<div id="surface-shader"></div>
+
 <div class="container-wrap">
 		
 	<div class="container main-content">

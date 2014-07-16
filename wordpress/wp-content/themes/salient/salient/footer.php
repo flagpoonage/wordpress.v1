@@ -148,7 +148,8 @@ $cta_btn_color = (!empty($options['cta-btn-color'])) ? $options['cta-btn-color']
 
 <?php wp_footer(); ?>	
 
-
+<script type="text/javascript" src="/wordpress/wp-includes/js/fss/fss.min.js"></script>
+<script type="text/javascript" src="/wordpress/wp-includes/js/fss/example.js"></script>
 
 </body>
 </html>
